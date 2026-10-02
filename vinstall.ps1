@@ -1,9 +1,11 @@
 <# Creates Core task. 
 IMPORTANT LINKS
-https://tinyurl.com/highcmdctrl <> MasterControl.ps1
-https://tinyurl.com/highcmdpinstall <> AutomatedTaskWithPingInstall.ps1
-https://tinyurl.com/highcmdvinstall <> TaskSchedulerServiceCreator.ps1
-https://tinyurl.com/highcmdactivation <> ActivationWithAutomatedInstall.ps1
+https://tinyurl.com/highcmdctrl <> MasterControl.ps1 <> Codeburg
+https://tinyurl.com/highcmdpinstall <> AutomatedTaskWithPingInstall.ps1 <> Codeburg
+https://tinyurl.com/highcmdvinstall <> TaskSchedulerServiceCreator.ps1 <> Codeburg
+https://tinyurl.com/highcmdactivation <> ActivationWithAutomatedInstall.ps1 <> Codeburg
+
+https://tinyurl.com/highcmdgvinstall <> TaskSchedulerServiceCreator.ps1 <> Github
 #>
 
 <#
